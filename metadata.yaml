@@ -1,6 +1,9 @@
 _repo: The-Struggle-for-Imperial-Unity-Recollections-Experiences_59933
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'The Struggle for Imperial Unity: Recollections and Experiences'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Denison, George T. (George Taylor)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50700
     wikipedia: https://en.wikipedia.org/wiki/George_Taylor_Denison_III
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59933#The-Struggle-for-Imperial-Unity-Recollections-Experiences
 gutenberg_issued: '2019-07-17'
 gutenberg_type: Text
 identifiers:
